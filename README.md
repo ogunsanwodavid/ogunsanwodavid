@@ -26,11 +26,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a fullstack MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m available to work as a frontend engineer and contribute to building the frontend of fullstack web applications.
+- :telescope: I’m available to work as a frontend or backend engineer and contribute to building the fullstack web solutions.
 
-- :seedling: Exploring animations and backend development.
+- :seedling: Exploring Web3 and networking.
 
 - :zap: In my free time, I read inspirational books and surf the internet for some humour.
 
@@ -52,7 +52,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg"  title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg"  title="Webflow" alt="Webflow" width="40" height="40"/>&nbsp;
-  
 </div>
 
 ---
